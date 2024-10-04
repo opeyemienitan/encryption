@@ -1,5 +1,4 @@
-# encryption
-AES & RSA encryption application
+# AES & RSA Encryption application
 
 I have developed an application based upon the RSA and AES algorithm that provides the encryption and decryption of the different files for one or more users at a time and the detailed description of the Design and implementation of application.
 
